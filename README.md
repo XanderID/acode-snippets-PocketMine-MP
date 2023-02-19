@@ -14,7 +14,7 @@ i use the default php.snippets from [ACode-Plugin-Snippets](https://github.com/d
 7. Done, You can try typing PocketMine-MP class, function, constant
 
 ## How To Use
-
+<img src="https://raw.githubusercontent.com/XanderID/acode-snippets-PocketMine-MP/main/.assets/how-to-use.gif" height="50%" width="50%" />
 
 ## Issues
 You can open Issues if any Snippet is not correct
