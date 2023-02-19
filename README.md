@@ -8,7 +8,7 @@ i use the default php.snippets from [ACode-Plugin-Snippets](https://github.com/d
 1. Install Plugin [ACode-Plugin-Snippets](https://github.com/deadlyjack/acode-plugin-snippets#readme)
 2. You need [ACode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) version 1.6.0 and above
 3. Set Custom Snippets path in Command Pallette
-4. Download php.snippets from this Repository
+4. Download php.snippets from [This](https://github.com/XanderID/acode-snippets-PocketMine-MP/releases)
 5. Replace php.snippets in Custom Snippets path with new php.snippets
 6. Close and Open ACode Application
 7. Done, You can try typing PocketMine-MP class, function, constant
