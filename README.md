@@ -18,3 +18,6 @@ i use the default php.snippets from [ACode-Plugin-Snippets](https://github.com/d
 
 ## Issues
 You can open Issues if any Snippet is not correct
+
+## ATTENTION!
+This is only for beta, maybe later I will make a plugin version.
